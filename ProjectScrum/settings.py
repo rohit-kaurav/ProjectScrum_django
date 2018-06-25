@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_mongoengine',
     'project_management',
-    'user_management'
+    'user_management',
+    'iteration_management'
 ]
 
 MIDDLEWARE = [
